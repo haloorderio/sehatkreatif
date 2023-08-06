@@ -1,17 +1,17 @@
 # Site settings
-title:          Blog Hakim
-description:    "Setiap orang punya cerita berbeda..."
+title:          Edukasi untuk Wanita Karir Muda Kreatif
+description:    "...karena wanita berhak berkarya..."
 baseurl:        ""
-url:            "https://muhnurulhakim.github.io"
+url:            "https://haloorderio.github.io/sehatkreatif"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Nurul Hakim
-  url:          https://hakim.orderio.id
-  email:        hakim@orderio.id
+  name:         Giana Nuri
+  url:          https://wanitasehatkreatif.orderio.id
+  email:        admin@orderio.id
 
 # Build settings
 markdown:       kramdown

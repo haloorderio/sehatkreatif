@@ -68,4 +68,6 @@ Perubahan gaya hidup, seperti olahraga teratur, diet sehat, dan cukup tidur, jug
 
 Nyeri haid adalah kondisi yang umum dialami oleh wanita. Ada beberapa cara untuk mengatasi nyeri haid, termasuk obat-obatan, kontrasepsi hormonal, dan perubahan gaya hidup. Jika Anda mengalami nyeri haid yang parah, sebaiknya segera konsultasikan dengan dokter untuk mendapatkan penanganan yang tepat.
 
-![EPS Program Banner]({{ site.baseurl }}/assets/img/Ngalami%20Nyeri%20Haid%20Ini%20Cara%20Praktis%20Mengatasinya....png){: .mx-auto.d-block :}
+<center>
+    <a href="https://tribelio.page/lp-eps"><img src="https://github.com/haloorderio/sehatkreatif/blob/master/assets/img/Ngalami%20Nyeri%20Haid%20Ini%20Cara%20Praktis%20Mengatasinya....png?raw=true" alt="Program EPS"></a>
+  </center>

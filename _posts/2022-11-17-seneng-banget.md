@@ -3,6 +3,7 @@ layout: post
 title: "Seneng Banget!"
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Kalo nemu 'mainan' baru, saya girang bukan kepalang!

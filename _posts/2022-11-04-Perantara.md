@@ -3,6 +3,7 @@ layout: post
 title: "Perantara"
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Beberapa hari ini lagi asik ngulik perkara SaaS alias **Software as A Service**.

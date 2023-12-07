@@ -3,6 +3,7 @@ Layout: post
 Title: "Perjalanan Lintas Waktu"
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Ini bukan persoalan menembus waktu ke masa depan atau balik lagi ke masa lalu.

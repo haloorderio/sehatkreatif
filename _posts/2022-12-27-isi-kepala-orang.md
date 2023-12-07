@@ -3,6 +3,7 @@ layout: post
 title: "Isi Kepala Orang"
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Seringkali saya penasaran dengan isi kepala orang. Bertanya-tanya mengapa orang melakukan tindakan A, B, C atau D.

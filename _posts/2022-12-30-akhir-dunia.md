@@ -3,6 +3,7 @@ layout: post
 title: Akhir Dunia
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Semakin ke sini memang dunia makin deket sama akhir usianya. Makin banyak orang berbuat keburukan nggak lagi malu-malu.

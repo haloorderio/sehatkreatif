@@ -3,6 +3,7 @@ layout: post
 title: "Menjadi Biasa"
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Ketika banyak orang berlomba-lomba menjadi berbeda agar mudah terlihat, maka di saat itu pula seseorang yang memilih menjadi biasa akan lebih terlihat.

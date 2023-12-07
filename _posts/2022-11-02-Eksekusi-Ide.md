@@ -3,6 +3,7 @@ layout: post
 title: "Eksekusi Ide"
 author: "Nurul Hakim"
 tags: Coretan
+published: false
 ---
 
 Manusia dikaruniai akal untuk berpikir. Ide-ide yang bermula dari Tuhan Yang Maha Esa sepatutnya dicatat agar tak hilang begitu saja.

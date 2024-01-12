@@ -2,7 +2,7 @@
 title:          Edukasi untuk Wanita Karir Muda Kreatif
 description:    "...karena wanita berhak berkarya..."
 baseurl:        ""
-url:            "https://haloorderio.github.io/sehatkreatif"
+url:            "https://wanitasehatkreatif.orderio.my.id/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Giana Nuri
-  url:          https://wanitasehatkreatif.orderio.id
+  url:          https://wanitasehatkreatif.orderio.my.id
   email:        admin@orderio.id
 
 # Build settings

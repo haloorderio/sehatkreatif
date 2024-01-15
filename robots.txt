@@ -1,0 +1,4 @@
+Sitemap: https://orderio.my.id/sitemap.xml
+User-agent: *
+
+Allow: /

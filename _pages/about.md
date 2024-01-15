@@ -1,14 +1,20 @@
 ---
 layout: post
 title: "About"
-author: "Nurul Hakim"
+author: "Nuri Giana"
 permalink: /about/
 ---
 
-### Halo!
+### Hai!
 
-Nama saya **Muhammad Nurul Hakim**, mulai ngeblog di tahun 2009 di [kimsanada.wordpress.com](https://kimsanada.wordpress.com). Asiknya memulai petualangan menulis ada di sana.
+Terimakasih sudah berkunjung ke website ini.
 
-Beberapa tahun belakangan ini saya menambah blog di [muh-nurulhakim.blogspot.com](https://muh-nurulhakim.blogspot.com/) yang sebenarnya saya fokuskan untuk kategori bisnis, tapi saya punya pemikiran lain sehingga saya resmi berpindah di sini.
+Website ini dibuat sebagai media edukasi bagi perempuan masa kini yang suka menjalani hidup dengan produktif.
 
-Terimakasih sudah mampir dan membaca.
+"Kamu nggak sendirian. Kamu bersama teman-teman yang siap membantumu hidup lebih produktif lagi!"
+
+**Salam sayang**,
+
+Nuri Giana
+
+
